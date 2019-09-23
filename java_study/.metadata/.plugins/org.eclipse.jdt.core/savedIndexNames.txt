@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+E:\Programming\2019\September\Java\Tear\.metadata\.plugins\org.eclipse.jdt.core
+117774581.index
+2149177013.index

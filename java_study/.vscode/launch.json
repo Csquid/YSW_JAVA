@@ -1,0 +1,32 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - A01_Method",
+            "request": "launch",
+            "mainClass": "Chap06_Method.A01_Method",
+            "projectName": "Tear_d8fc63fa"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - a02_Constants",
+            "request": "launch",
+            "mainClass": "Chap01_Basic.a02_Constants",
+            "projectName": "Tear_d8fc63fa"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - A01_Variable",
+            "request": "launch",
+            "mainClass": "Chap01_Basic.A01_Variable",
+            "projectName": "Tear_d8fc63fa"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Main",
+            "request": "launch",
+            "mainClass": "Chap07_Class_Instance.BankProject.Main",
+            "projectName": "Tear_d8fc63fa"
+        }
+    ]
+}
